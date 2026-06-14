@@ -4,8 +4,8 @@ modified line3
 modified line4
 folder2 line5
 line6
-line7
-line8
+folder1 line7
+folder1 line8
 line9
 line10
 
